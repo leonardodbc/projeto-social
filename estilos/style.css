@@ -10,7 +10,7 @@ html {
 }
 
 body {
-    background-image: url(imagens/fundo-madeira.jpg);
+    background-image: url(../imagens/fundo-madeira.jpg);
     background-position: center  center;
 }
 
@@ -39,7 +39,7 @@ iframe#tela {
     height: 570px;
     width: 320px;
 
-    background-image: url(imagens/tela-home.jpg);
+    background-image: url(../imagens/tela-home.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -54,7 +54,7 @@ div#cel {
     height: 750px;
     width: 372px;
 
-    background-image: url(imagens/frame-iphone.png);
+    background-image: url(../imagens/frame-iphone.png);
     background-repeat: no-repeat;
     background-size: cover;
     
